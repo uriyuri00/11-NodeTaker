@@ -11,9 +11,14 @@ npm i
 
 ## Description
 
+Note-taking application that used node and express.js.
+siply can add and delete notes.
+
 ## FINAL Screen shot
 
 ![Screenshot 2023-02-02 233712](https://user-images.githubusercontent.com/114896166/216545347-63343bf7-6f09-404e-b6bd-e00666f843d7.png)
+
+
 
   
   ## Questions
